@@ -4,7 +4,7 @@
   "description": "An angular 10.0+ bootstrap confirmation popover",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattlewis92/angular-confirmation-popover.git"
+    "url": "git+https://github.com/kubica/angular-confirmation-popover-dist.git"
   },
   "keywords": [
     "angular",
